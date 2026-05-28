@@ -52,7 +52,7 @@ if st.sidebar.button("Neu starten"):
     st.session_state.x = random.randint(0, len(Lista) - 1)
     st.rerun()
 
-tab1, tab2 = st.tabs(["Lernwortschatz 9", "Prüfung"])
+tab1, tab2, tab3, tab4 = st.tabs(["Lernwortschatz 7","Lernwortschatz 8","Lernwortschatz 9", "Prüfung"])
 
 with tab1:
     st.header("Lernwortschatz 7")
