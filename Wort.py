@@ -31,7 +31,7 @@ Traduccion = Traduccion9 + Traduccion8 + Traduccion7
 
 st.title("HERZLICH WILLKOMMEN ZUSAMMEN!")
 st.write("In dieser Website könnt ihr Wortschatz lernen, um die Themen besser zu verstehen")
-st.write("Wir stehen zwischen dem Erfolg und dem Mittelmaß. Wer den genug Willen hat, um den nächste Schritt zu tun, wird alle seine Ziele erreichen.")
+st.write("\"Wir stehen zwischen dem Erfolg und dem Mittelmaß. Wer den genug Willen hat, um den nächste Schritt zu tun, wird alle seine Ziele erreichen."\")
 st.write("von Hugo Alconini")
 if "indice" not in st.session_state:
     st.session_state.indice = 0
