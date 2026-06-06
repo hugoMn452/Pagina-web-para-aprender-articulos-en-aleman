@@ -15,10 +15,11 @@ Traduccion9 = ['Departamento', 'Casa de varios niveles', 'Vivienda comunitaria',
 
 Lista8 = ["das Alter", "die Größe", "das Gewicht", "der Körper", "der Kopf", "das Bein", "die Hand", "der Arm", "die Schulter", "der Bauch", "der Finger", "der Hals",
          "das Knie", "der Fuß", "das Gesicht", "der Mund", "das Auge", "das Haar", "das Ohr", "die Nase", "der Unfall", "der Schmerz", "der Verband", "die Salbe", "das Rezept",
-         "die Krankheit", "der Schnupfen"]
+         "die Krankheit", "der Schnupfen", "der Hustensaft", "der Notfall", "die Notaufnahme", "der Notarzt", "die Spritze", "Süßigkeit", "das Blut", "die Übung"]
 
 Traduccion8 = ["Edad", "Estatura", "Peso corporal", "El cuerpo", "Cabeza", "Pierna", "Mano", "Brazo", "Hombro", "Panza", "Dedo", "Cuello", "Rodilla", "Pie", "Rostro",
-              "Boca", "Ojo", "Cabello", "Oreja", "Nariz", "El accidente", "Dolor", "Vendaje", "Ungüento", "Receta", "Enfermedad", "Catarro"]
+              "Boca", "Ojo", "Cabello", "Oreja", "Nariz", "El accidente", "Dolor", "Vendaje", "Ungüento", "Receta", "Enfermedad", "Catarro", "Jarabe", "Emergencia", "Sala de emergencias",
+              "Médico de emergencia", "Inyección", "Golosina", "Sangre", "Ejercicio"]
 
 Lista7 = ["der Arbeitsalltag", "der Bäcker", "der Hausmeister", "der Mitarbeiter", "das Praktikum", "der Bericht", "der Fehler", "die Datei", "der Drucker", "das Passwort", "der Akku",
          "der Automat", "der Brief", "der Absender", "der Empfänger", "das Mitglied", "der Aufzug", "die Politik"]
