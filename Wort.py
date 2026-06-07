@@ -15,7 +15,7 @@ Traduccion9 = ['Departamento', 'Casa de varios niveles', 'Vivienda comunitaria',
 
 Lista8 = ["das Alter", "die Größe", "das Gewicht", "der Körper", "der Kopf", "das Bein", "die Hand", "der Arm", "die Schulter", "der Bauch", "der Finger", "der Hals",
          "das Knie", "der Fuß", "das Gesicht", "der Mund", "das Auge", "das Haar", "das Ohr", "die Nase", "der Unfall", "der Schmerz", "der Verband", "die Salbe", "das Rezept",
-         "die Krankheit", "der Schnupfen", "der Hustensaft", "der Notfall", "die Notaufnahme", "der Notarzt", "die Spritze", "Süßigkeit", "das Blut", "die Übung"]
+         "die Krankheit", "der Schnupfen", "der Hustensaft", "der Notfall", "die Notaufnahme", "der Notarzt", "die Spritze", "die Süßigkeit", "das Blut", "die Übung"]
 
 Traduccion8 = ["Edad", "Estatura", "Peso corporal", "El cuerpo", "Cabeza", "Pierna", "Mano", "Brazo", "Hombro", "Panza", "Dedo", "Cuello", "Rodilla", "Pie", "Rostro",
               "Boca", "Ojo", "Cabello", "Oreja", "Nariz", "El accidente", "Dolor", "Vendaje", "Ungüento", "Receta", "Enfermedad", "Catarro", "Jarabe", "Emergencia", "Sala de emergencias",
