@@ -5,7 +5,7 @@ import random
 from streamlit.runtime.state import session_state
 
 Lista9 = ['die Wohnung', 'das Hochhaus', 'die WG', 'das Apartment', 'das Reihenhaus', 'der Raum', 'das Bad', 'die Dusche',
-            'der Flur', 'die Küche', 'das Schlafzimmer', 'das Wohnzimmer', 'das Kinderzimmer', 'der Balkon', 'die Terrasse', 'der Garten', 'die Treppe', 'die Tür', 'die Decke', 'das Erdgeschoss', 'der Stock', 'die Lage', 'das Zentrum', 'der Blick', 'die Möbel', 'das Gerät',
+            'der Flur', 'die Küche', 'das Schlafzimmer', 'das Wohnzimmer', 'das Kinderzimmer', 'der Balkon', 'die Terrasse', 'der Garten', 'die Treppe', 'die Tür', 'die Decke', 'das Erdgeschoss', 'der Stock', 'die Lage', 'das Zentrum', 'der Blick', 'das Möbel', 'das Gerät',
             'die Lampe', 'das Licht', 'die Pflanze', 'das Regal', 'der Schrank', 'der Schreibtisch', 'der Sessel', 'das Sofa', 'der Stuhl', 'der Tisch', 'der Teppich', 'das Bett', 'der Fernseher', 'das Herd', 'die Kaffemaschine', 'der Kühlschrank', 'die Spülmaschine', 'die Waschmaschine', 'die Anzeige', 'der Vertrag', 'die Miete', 'der Vermieter',
             'der Umzug', 'die Feier', 'die Blume', 'der Baum', 'das Holz', 'das Heft', 'der Glückwunsch']
 
